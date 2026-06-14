@@ -1,4 +1,4 @@
-# 📊 Task 4: Financial Sales Dashboard | Power BI
+# 📊 Financial Sales Dashboard | Power BI
 ## 📌 Objective
 Design an interactive multi-page dashboard for business stakeholders using real financial sales data, built in Power BI with KPIs, navigation, slicers and business insights.
 
